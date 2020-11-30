@@ -14,6 +14,7 @@ import (
 
 // Reads all .txt files in the current folder
 // and encodes them as strings literals in textfiles.go
+// and encodes them as strings literals in textfiles.go
 func main() {
 	fs, _ := ioutil.ReadDir("./cypher-data")
 	for _, f := range fs {
@@ -71,7 +72,7 @@ func outputCypher(lines []string, out *os.File) {
 	// A little klunky, but iterate through all lines and collect all Types
 	typeLines := []string{}
 	for i := 0; i < len(lines); i++ {
-		if strings.HasPrefix(lines[i], "Type:") {
+		if strings.HasPrefix(lines[i], "Type:") || strings.HasPrefix(lines[i], "Wearable:") || strings.HasPrefix(lines[i], "Internal:") || strings.HasPrefix(lines[i], "Useable:") || strings.HasPrefix(lines[i], "Usable:") {
 			typeLines = append(typeLines, lines[i])
 		}
 	}
@@ -83,15 +84,13 @@ func outputCypher(lines []string, out *os.File) {
 		switch {
 		case strings.HasPrefix(s, "Level:"):
 			out.WriteString(fmt.Sprintf("\t\tLevel: \"%s\",\n", strings.Trim(s[6:], " ")))
-		case strings.HasPrefix(s, "Type:") && typesReadyToOutput:
+		case typesReadyToOutput && (strings.HasPrefix(s, "Type:") || strings.HasPrefix(s, "Wearable:") || strings.HasPrefix(s, "Internal:") || strings.HasPrefix(s, "Useable:") || strings.HasPrefix(s, "Usable:")):
 			out.WriteString(fmt.Sprint("\t\tType: []string{\n"))
 			for _, l := range typeLines {
-				out.WriteString(fmt.Sprintf("\t\t\t\"%s\",\n", strings.Trim(l[5:], " ")))
+				out.WriteString(fmt.Sprintf("\t\t\t\"%s\",\n", strings.Trim(l, " ")))
 			}
 			out.WriteString(fmt.Sprint("\t\t},\n"))
 			typesReadyToOutput = false
-		case strings.HasPrefix(s, "Usable:"):
-			out.WriteString(fmt.Sprintf("\t\tUsable: \"%s\",\n", strings.Trim(s[7:], " ")))
 		case strings.HasPrefix(s, "Selection weighting:"):
 			out.WriteString(fmt.Sprintf("\t\tWeight: %s,\n", strings.Trim(s[20:], " ")))
 		case strings.HasPrefix(s, "Effect:"): // This should be the last item, so iterate and get them all

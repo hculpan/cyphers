@@ -108,7 +108,7 @@ func buildCypherOutput(c types.Cypher, lvl int, effect string, roll20Formatting 
 	}
 
 	if len(c.Type) > 0 {
-		result += fmt.Sprintf("Type: %s\n", c.Type[rand.Int()%len(c.Type)])
+		result += fmt.Sprintf("%s\n", c.Type[rand.Int()%len(c.Type)])
 	}
 
 	if c.Usable != "" {
@@ -191,7 +191,11 @@ func processCommandLine() (int, error) {
 }
 
 func calculateLevel(level string) int {
-	level = strings.Replace(level, "1d6", strconv.Itoa(rnd.Intn(6)+1), -1)
+	if strings.Index(level, "1d10") > -1 {
+		level = strings.Replace(level, "1d10", strconv.Itoa(rnd.Intn(10)+1), -1)
+	} else {
+		level = strings.Replace(level, "1d6", strconv.Itoa(rnd.Intn(6)+1), -1)
+	}
 
 	env := map[string]interface{}{}
 

@@ -7,7 +7,7 @@ surface, even horizontal ones. Lasts for ten
 minutes per cypher level.
 ANTIVENOM
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: Renders user immune to poisons of the
 same level or lower for one hour per cypher
@@ -50,19 +50,19 @@ one round after they teleport (eased by two
 steps if the cypher is level 5 or higher).
 CATHOLICON
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: Cures any disease of the cypher level
 or lower.
 CATSEYE
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: Grants the ability to see in the dark for
 five hours per cypher level.
 CHEMICAL FACTORY
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: After one hour, the sweat of the user
 produces 1d6 doses of a valuable liquid (these
@@ -120,7 +120,7 @@ teleport (eased by two steps if the cypher is
 level 6 or higher).
 DATASPHERE SIPHON
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Type: Wearable - Temporary tattoo, amulet,
 headband, crystal worn on temple
 Usable: Small handheld device, crystal
@@ -287,7 +287,7 @@ level 4 or higher, 3 points if the cypher is
 level 6 or higher) and loses its next action.
 EAGLESEYE
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: Grants the ability to see ten times as far
 as normal for one hour per cypher level.
@@ -331,7 +331,7 @@ for one hour per cypher level. The plane
 conforms to the space available.
 FORCE SHIELD PROJECTOR
 Level: 1d6 + 3
-Type: Internal - Subdermal injection
+Internal: Subdermal injection
 Type: Wearable - Belt, ring, bracelet
 Usable: Handheld device
 Effect: Creates a shimmering energy shield
@@ -406,7 +406,7 @@ continue to do so for a number of
 rounds equal to the cypher level.
 GRAVITY NULLIFIER
 Level: 1d6 + 3
-Type: Internal - Subdermal injection
+Internal: Subdermal injection
 Type: Wearable - Belt, boots, ring, bracelet
 Usable: Small platform on which the user
 must stand
@@ -494,7 +494,7 @@ through it. The wall conforms to the space
 available. It lasts for ten minutes.
 INFILTRATOR
 Level: 1d6
-Type: Internal - Phases into eye, phases out when
+Internal: Phases into eye, phases out when
 used
 Type: Wearable - Adheres to temple and launches
 projectile
@@ -546,7 +546,7 @@ made from a form of shapestone and is
 permanent and immobile once created.
 INTELLECT ENHANCEMENT
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Type: Wearable - Adhesive patch that activates when
 slapped
 Usable: Injector
@@ -562,7 +562,7 @@ invisible, making the wearer appear to be
 unarmored.
 KNOWLEDGE ENHANCEMENT
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Type: Wearable - Adhesive patch that activates when
 slapped
 Usable: Injector
@@ -605,7 +605,7 @@ round. After one round per cypher level,
 the slime dies and becomes inert.
 MACHINE CONTROL IMPLANT
 Level: 1d6 + 2
-Type: Internal - Pill
+Internal: Pill
 Type: Wearable - Disk that adheres to forehead,
 temporary tattoo
 Usable: Injector
@@ -706,7 +706,7 @@ foam affects metal to a depth of about 6
 inches (15 cm).
 MONOBLADE
 Level: 1d6 + 2
-Type: Internal - Injection into fingertip
+Internal: Injection into fingertip
 Type: Wearable - Glove
 Usable: Device similar to hilt
 Effect: Produces a 6-inch (15 cm) blade that’s
@@ -717,7 +717,7 @@ that ignores Armor of a level lower than its
 own. The blade lasts for ten minutes.
 MOTION SENSOR
 Level: 1d6 + 2
-Type: Internal - Injection into spine
+Internal: Injection into spine
 Type: Wearable - Amulet
 Usable: Disk that can be affixed to the floor or
 another surface
@@ -767,7 +767,7 @@ through it as if it were not there, although
 one cannot see through it, and it blocks light.
 POISON (EMOTION)
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible or injectable liquid
+Internal: Pill, ingestible or injectable liquid
 Type: Wearable - Lipstick, false fingertip, ring with needle
 Usable: Injector
 Effect: The victim feels a specific emotion for
@@ -792,7 +792,7 @@ eased by two steps, but temporary
 attachment is likely.
 POISON (EXPLOSIVE)
 Level: 1d6 + 1
-Type: Internal - Pill, ingestible or injectable liquid
+Internal: Pill, ingestible or injectable liquid
 Type: Wearable - Lipstick, false fingertip, ring with
 needle
 Usable: Injector
@@ -816,7 +816,7 @@ of the detonator.
 range of the detonator.
 POISON (MIND-CONTROLLING)
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible or injectable liquid
+Internal: Pill, ingestible or injectable liquid
 Type: Wearable - Lipstick, false fingertip, ring with
 needle
 Usable: Injector
@@ -840,7 +840,7 @@ next red object seen in lieu of all
 other actions, even ignoring selfpreservation.
 POISON (MIND-DISRUPTING)
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible or injectable liquid
+Internal: Pill, ingestible or injectable liquid
 Type: Wearable - Lipstick, false fingertip, ring with
 needle
 Usable: Injector
@@ -850,7 +850,7 @@ actions for a number of rounds equal to
 the cypher’s level.
 PSYCHIC COMMUNIQUE
 Level: 1d6 + 2
-Type: Internal - Pill
+Internal: Pill
 Type: Wearable - Device that adheres to temple
 Usable: Metallic disk
 Effect: Allows the user to project a one-time,
@@ -859,7 +859,7 @@ words per cypher level, with an unlimited
 range, to anyone they know.
 RAY EMITTER
 Level: 1d6 + 2
-Type: Internal - Subdermal implant
+Internal: Subdermal implant
 Type: Wearable - Contact lens, glove, ring, wristband,
 headband, belt buckle, shoulder-mounted
 device
@@ -876,7 +876,7 @@ level.
 94–00 Concentrated cold
 RAY EMITTER (NUMBING)
 Level: 1d6 + 2
-Type: Internal - Subdermal implant
+Internal: Subdermal implant
 Type: Wearable - Contact lens, glove, ring, wristband,
 headband, belt buckle, shoulder-mounted
 device
@@ -890,7 +890,7 @@ devices (5%) induce numbing that lasts for
 one hour.
 RAY EMITTER (PARALYSIS)
 Level: 1d6 + 2
-Type: Internal - Subdermal implant
+Internal: Subdermal implant
 Type: Wearable - Contact lens, glove, ring,
 wristband, headband, belt buckle,
 shoulder-mounted device
@@ -910,7 +910,7 @@ then it is ruined.
 REJUVENATOR
 Selection weighting: 2
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Type: Wearable - Adhesive patch that activates when
 slapped
 Usable: Injector
@@ -954,7 +954,7 @@ cypher is level 6 or higher). No action or
 roll is required by the armor’s wearer.
 SHEEN
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: For one week, the user’s cells are coated with
 a protective veneer that resists damage (+1 to
@@ -973,7 +973,7 @@ if the cypher is level 4 or higher, 3 points if
 the cypher is level 6 or higher).
 SHOCKER
 Level: 1d6 + 4
-Type: Internal - Subdermal implant
+Internal: Subdermal implant
 Type: Wearable - Ring, palm disk
 Usable: Short rod
 Effect: Delivers a powerful burst of electricity
@@ -981,7 +981,7 @@ that shocks any creature touched, inflicting
 damage equal to the cypher’s level.
 SKILL BOOST
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: Dramatically but temporarily alters the
 user’s mind and body so that one specific
@@ -1009,7 +1009,7 @@ action can be one of a number of possibilities:
 00 Escaping
 SLEEP INDUCER
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Type: Wearable - Fingertip cusp, ring, glove
 Usable: Injector, gas sprayer
 Effect: Touch or ingestion puts the victim to
@@ -1024,7 +1024,7 @@ device for one round per cypher level. Within
 the affected area, no sound can be heard.
 SOUND DAMPENER
 Level: 1d6 + 2
-Type: Internal - Implant
+Internal: Implant
 Type: Wearable - Wristband, ring, belt-mounted
 device, boots
 Usable: Small handheld device
@@ -1046,7 +1046,7 @@ Creating the spatial warp functions as one
 use of the device.
 SPEED BOOST
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Type: Wearable - Adhesive patch that activates when
 slapped
 Usable: Injector
@@ -1056,12 +1056,12 @@ one hour (or adds 2 if the cypher is level
 STIM
 Selection weighting: 2
 Level: 6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: Eases the next action taken by three steps.
 STRENGTH BOOST
 Level: 1d6 + 2
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Type: Wearable - Adhesive patch that activates when
 slapped
 Usable: Injector
@@ -1085,7 +1085,7 @@ each round to act normally (both in the
 field and after leaving it).
 TELEPATHY IMPLANT
 Level: 1d6 + 2
-Type: Internal - Pill
+Internal: Pill
 Type: Wearable - Disk that adheres to forehead,
 temporary tattoo
 Usable: Injector
@@ -1157,7 +1157,7 @@ distance and direction to the tracer, as long
 as it is in the same dimension.
 VISAGE CHANGER
 Level: 1d6
-Type: Internal - Pill or injection that produces
+Internal: Pill or injection that produces
 temporary subdermal, malleable implants
 Usable: Tube of moldable paste
 Effect: Changes the appearance of one humansized
@@ -1176,7 +1176,7 @@ wearer an asset to Speed defense actions
 for ten minutes per cypher level.
 VOCAL TRANSLATOR
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Type: Wearable - Headband
 Usable: Disk that must be held to forehead
 Effect: Translates everything said by the
@@ -1184,7 +1184,7 @@ user into a language that anyone can
 understand for 28 hours per cypher level.
 WARMTH PROJECTOR
 Level: 1d6
-Type: Internal - Subdermal implant
+Internal: Subdermal implant
 Type: Wearable - Bodysuit, belt
 Usable: Injector
 Effect: Keeps the user warm and comfortable
@@ -1194,7 +1194,7 @@ has Armor equal to the cypher level that
 protects against cold damage.
 WATER BREATHER
 Level: 1d6
-Type: Internal - Pill, ingestible liquid
+Internal: Pill, ingestible liquid
 Usable: Injector
 Effect: Allows an air breather to extract oxygen
 from water for five hours per cypher level
@@ -1208,3 +1208,529 @@ up to 2 feet (60 cm) of material. The panel
 works only if the cypher’s level is higher
 than the material’s level. The effect lasts for
 one minute per cypher level.
+ABLATIVE THROWER
+Level: 1d6 + 3
+Usable: Bulky handheld device attached to
+large tanks and a wide hose
+Effect: When activated, creatures within short
+range are coated with a fine mist of metallic
+nano particles that coats their clothing (but
+not flesh), hardening non-flexing portions
+for about an hour and granting +1 Armor. If
+the use is coordinated with attackers who
+make up a community’s or horde’s combat
+force, the force is treated as a defensive
+horde during that community action.
+ACIDIC RESONATOR
+Level: 1d6 + 2
+Usable: Bulky handheld device
+Effect: When activated, any exposed metallic
+weapons within short range bead with
+acid for about an hour, granting affected
+weapons 1 additional point of damage
+when used in combat. If the use is
+coordinated with attackers who make up a
+community’s or horde’s combat force, the
+community or horde inflicts +1 damage
+during the next community-scale combat
+interaction.
+COMMUNITY BEACON
+Level: 1d6 + 2
+Usable: Handheld device
+Effect: When activated, the cypher splits
+into two pieces. One piece is affixed to a
+numenera structure, and the other is kept
+by a character. The character can then use
+the connection between the two pieces to
+trigger a spatial warp any time within the
+next 28 hours. The spatial warp returns
+the user and all targets within immediate
+range to a location next to the numenera
+structure, no matter how far apart the
+character and the structure were.
+CRAFTER’S EYES
+Level: 1d6 + 2
+Wearable: Thick lenses on frames worn over
+eyes
+Effect: Informative images formed on the inner
+lenses allow the user to automatically
+succeed on any one crafting subtask whose
+level is equal to or less than the cypher’s
+level.
+DECEPTION FILTER
+Level: 1d6
+Internal: Pill, ingestible liquid
+Wearable: Badge
+Effect: User cannot knowingly tell a lie for one
+hour.
+DESTINY NODULE
+Level: 1d6
+Usable: Crystal nodule affixed to tool
+Effect: For the next 28 hours, each time the
+tool the nodule is attached to is used
+to repair, craft, or modify an object or
+structure, the tool provides the user an
+additional asset to the task.
+ABLATIVE THROWER
+Level: 1d6 + 3
+Usable: Bulky handheld device attached to
+large tanks and a wide hose
+Effect: When activated, creatures within short
+range are coated with a fine mist of metallic
+nano particles that coats their clothing (but
+not flesh), hardening non-flexing portions
+for about an hour and granting +1 Armor. If
+the use is coordinated with attackers who
+make up a community’s or horde’s combat
+force, the force is treated as a defensive
+horde during that community action.
+DETONATION
+(HORDE SUPPRESSOR)
+Level: 1d6 + 1
+Wearable: Wristband projector (long range)
+Usable: Handheld projector (long range)
+Effect: Explodes to release a burst of neurotoxic
+mist affecting all creatures within long
+range, hindering all attacks for about an
+hour. If effectively targeted during a conflict
+against a ranked horde or community,
+the affected horde or community inflicts 1
+point of damage less than normal during
+that community action.
+EFFORT ENHANCEMENT
+Level: 1d6 + 2
+Internal: Pill, ingestible liquid
+Wearable: Adhesive patch that activates when
+slapped
+Usable: Injector
+Effect: For the next 28 hours, the user can
+access a thin connection to the datasphere
+to gain a very specific effect. When applying
+Effort to a task related to a predetermined
+skill, the user can apply one free level of
+Effort. The skills encoded are generally
+restricted to the following.
+01–10 Melee attacks
+11–20 Ranged attacks
+21–40 Understanding numenera
+41–50 Salvaging numenera
+51–60 Crafting numenera
+61–70 Persuasion
+71–75 Healing
+76–80 Speed defense
+81–85 Intellect defense
+86–90 Swimming
+91–95 Riding
+96–00 Sneaking
+EMOTION SMOOTHER
+Level: 1d6
+Internal: Pill, ingestible liquid
+Wearable: Adhesive patch that activates when
+slapped
+Usable: Injector
+Effect: For the next hour, the character loses
+access to the part of their mind that
+registers and produces emotion. This
+allows the user to experience situations
+they might not otherwise be able to handle,
+to fairly weigh options without emotional
+shortcuts, or to tell completely convincing
+lies because they are no longer generating
+micro-expressions or other telling responses
+due to emotional inconsistency.
+FARSPEAKER
+Level: 1d6
+Usable: Handheld device
+Effect: For the next ten minutes, the user can be
+heard at any distant location that they can
+see, as long as nothing physically blocks
+the intervening space. They can also hear
+sounds made in return. The area in which
+the user can speak and hear is up to a
+short distance across in the target location.
+GRAVITY CHANGER
+Level: 1d6 + 2
+Useable: Metal plates
+Effect: Once placed, the plates change the
+direction of gravity within an area up to
+a short distance in diameter. The gravitic
+warp could be continuous across the
+affected area, or it could bend and curve,
+changing directions within the area up to
+a number of times equal to the level of the
+cypher. Once gravity is warped, it cannot
+be changed and persists for 28 hours.
+HARMONY LAMP
+Level: 1d6
+Useable: Crystal orb, nodule, disc
+Effect: For an hour after activation, the cypher
+emits a combination of colored light, sound,
+odor, and healing nanobots that permeate an
+area up to a short distance across. All positive
+interaction tasks made in the area gain an asset.
+Creatures who’ve made up their minds about a
+topic may be open to revisiting the issue. PCs
+add +1 to recovery rolls made in the area.
+HEALTH RESONATOR
+Level: 1d6 + 2
+Usable: Bulky handheld device
+Effect: When activated, creatures within short
+range each gain 2 points of health (or 2
+points to Might for PCs) for about an hour.
+If the use is coordinated with attackers who
+make up a community’s or horde’s combat
+force, the force has +2 health during that
+community action.
+HIDING ALARM NODULE
+Level: 7
+Usable: Crystal nodule affixed to installation
+Effect: For the next 28 hours, each time the
+installation to which the nodule is attached
+is struck hard enough to inflict damage (but
+not more than once per round), the structure
+or installation goes out of phase for one hour.
+The installation must fit in a cube up to a short
+distance wide, tall, and deep. All contents of
+the out-of-phase structure also go out of phase,
+unless they somehow leave the structure.
+IMMOBILIZER
+Level: 1d6 + 2
+Usable: Handheld device
+Effect: The user directs one end of the cypher
+at a target within short range, which is then
+subject to an attack by a projected mass of
+rapidly expanding and hardening foam. The
+target is held immobile in the hardened
+mass of foam for one hour, after which the
+mass turns to powder.
+INFRASTRUCTURE DRILL
+Level: 1d6 + 1
+Usable: Large sphere with a thick screw protrusion
+Effect: The user attaches this cypher to a wall
+or other structure. On the following round,
+it drills into the object and keeps going
+beneath the surface for the next hour,
+creating a series of tunnels that weaken the
+integrity of the structure and connecting
+structures. This decreases the level of all
+commonplace structures connected to
+the initial structure within long range and
+inflicts 3 points of damage to a ranked
+community’s infrastructure.
+INSTALLATION ENHANCER
+Level: 1d6 + 3
+Wearable: Bulky device and several metal plates
+Effect: When securely attached to an
+installation, it increases the level of the
+entire installation up to the level of the
+cypher for about one hour (no effect on
+installations of a level equal to or higher
+than the cypher).
+INSTALLATION MOVER
+Level: 1d6 + 2
+Wearable: Bulky device and several metal plates
+Effect: When securely attached to an installation,
+it allows the entire installation to be moved
+to another location within very long range
+(which is normally a difficult task). The
+transfer requires that the user be able to push
+the installation to the new location, but for
+the duration of about an hour, the installation
+seems almost weightless. During the transfer,
+the installation does not function.
+INSTANT ITEM
+Level: 1d6
+Wearable: Bulky amulet
+Effect: This cypher has a two-stage activation.
+The first stage occurs when the wearer keys
+an object that they can hold in one hand to
+the cypher. The object falls into a subspace
+pocket and remains indefinitely or until a
+user activates the cypher a second (and final)
+time, immediately retrieving the stored item.
+INSTANT WALL
+Level: 1d6 + 1
+Usable: Handheld device
+Effect: With the addition of water and air, the
+small device expands into an immobile
+plane up to 10 feet (3 m) tall, 30 feet (9
+m) long, and 2 feet (60 cm) thick. It is
+made from a form of shapestone and is
+permanent and immobile once created.
+INSTANT WORKSHOP
+Level: 1d6 + 2
+Usable: Handheld device
+Effect: This small device expands into a
+workbench that fixes itself in place. The
+workbench provides an adjustable-height
+work surface with light and a variety
+of attached tools suitable for working
+with commonplace objects, numenera
+objects, and structural components.
+The workshop enables crafting tasks
+by providing the appropriate tools and
+workspace, though it does not provide
+shelter from the elements. The workbench
+and all its components are made from a
+form of shapemetal, and the workbench is
+permanent and immobile once created.
+IOTUM STABILIZER
+Level: 1d6 + 1
+Usable: Bulky handheld device
+Effect: When used as part of a salvaging task,
+the field emitted by the cypher stabilizes
+all iotum within short range so that an
+additional 1d6 units of iotum are recovered.
+The additional iotum must be of the same
+kind that has already been discovered, and
+the iotum must be of a level equal to or less
+than the level of this cypher.
+IOTUM UPGRADER
+Level: 1d6 + 2
+Usable: Bulky handheld device
+Effect: When attached to 1 unit of iotum, that
+iotum can then be used as if it were a unit
+of iotum 1 level higher in a crafting task.
+For example, an upgraded unit of io (level 1)
+could be used as if it were a unit of
+responsive synth (level 2) for the purpose
+of one crafting task, or a unit of quantium
+(level 5) could be used as if it were a unit of
+protomatter (level 6).
+IRON WIND RESISTANCE
+Level: 7
+Internal: Pill, ingestible liquid
+Usable: Injector
+Effect: Grants the user two assets to defense
+tasks made to resist the effects of an
+instance of the iron wind (and attempts
+to resist any ongoing effects instigated by
+previous iron wind contact, if any) for the
+next 28 hours.
+MECHANICAL WRIGHT
+Level: 1d6 + 3
+Usable: Complex device
+Effect: Crafts one numenera object or
+structure whose level can be no higher
+than the mechanical wright’s level
+minus 3 (minimum level 1), as long as a
+numenera plan is provided to work from.
+Crafting occurs over the course of the
+next 28 hours, regardless of the target
+device’s level. Components, including
+parts and iotum, are contributed from
+the mechanical wright, which becomes
+completely integrated into the new
+numenera device over the course of the
+crafting process.
+OBJECT REPLICATOR
+Level: 1d6 + 1
+Usable: Crystal nodule affixed to object that
+weighs up to 10 pounds (5 kg)
+Effect: Replicates three additional copies of
+most objects whose level is equal to or less
+than this cypher’s level. A unit of iotum can
+be replicated, but not functioning cyphers,
+artifacts, or similar devices.
+ORGAN FACTORY
+Level: 1d6
+Internal: Pill, ingestible liquid
+Usable: Injector
+Effect: Over the course of 28 hours, the
+user grows an external, fully viable living
+organ or limb. This is a somewhat painful
+process that dazes the user for the last
+half of the process. The completely grown
+organ or limb can be transferred to another
+creature simply by placing it on their body
+and waiting a few rounds. If the recipient
+creature has sustained damage to the
+same kind of organ or limb, the newly
+grown one replaces it over the course of
+about a minute (during which time the
+recipient creature is stunned). Otherwise,
+the duplicate organ or limb withers and
+dies.
+Duplicate organs must be used within one
+week. All force-grown organs and limbs are
+sealed within a partially living, protective,
+translucent caul. The cypher can produce
+one of the following, chosen by the user at
+the time of the cypher’s use:
+01–04 Heart
+05–08 Lung 
+09–12 Brain 
+13–16 Blood 
+17–20 Ribs 
+21–25 Eye 
+26–30 Ear 
+31–35 Hand
+36–45 Foot
+46–55 Full arm
+56–65 Full leg
+66–75 Nose
+76–85 Mouth
+86–95 Stomach
+96–00 Intestines
+PHASING GLOVES
+Level: 1d6 + 1
+Wearable: Gloves
+Effect: These gloves can selectively phase
+through solid objects whose level is no
+higher than the cypher level in a fashion
+that allows the wearer to see what they are
+touching, providing an asset for anyone
+attempting to repair a disabled object or
+structure. Someone wearing the gloves
+could also search behind walls and under
+floors using the gloves. The gloves retain
+their phasing ability for up to one minute per
+cypher level. If used as part of a salvaging
+task, the gloves grant two assets.
+PSYCHIC DEFENSE NODULE
+Level: 1d6 + 2
+Usable: Crystal nodule affixed to side of head
+Effect: For the next 28 hours, each time the
+wearer of the nodule is affected by an
+attack that attempts to sway their actions
+or beliefs or that inflicts Intellect damage,
+they instead go into stasis for one round
+and remain unaffected. While in stasis,
+they also lose their next turn. Attacks
+against a wearer in stasis are made as if
+the wearer were protected by a force field
+whose level is equal to the cypher’s level.
+RAGE THROWER
+Level: 1d6 + 2
+Usable: Bulky handheld device attached to
+large tanks and a wide hose
+Effect: When activated, creatures within
+short range are coated with a fine mist of
+insinuating nano particles that enter their
+blood and stimulate their behavior for
+about an hour, making them more violent
+but less able to feel pain. This grants them
++1 Armor but an inability to use Effort
+from their Intellect Pool. If the use is
+coordinated with attackers who make up
+a community’s or horde’s combat force,
+the force is treated as a marauding horde
+during that community action.
+RETRIEVER
+Level: 1d6 + 3
+Wearable: Glove of synth and small nodule
+Usable: Small handheld device and small
+nodule
+Effect: These cyphers always come in at
+least two parts: a nodule and some kind
+of retrieving device. The nodule can be
+attached to an item your size or smaller.
+When the cypher is activated, that item is
+teleported to the device.
+SALVAGE GRAFT
+Level: 1d6 + 1
+Usable: Small metallic disc
+Effect: When applied to a creature’s head, the
+disk immediately unleashes microfilaments
+that enter the brain. Within five minutes,
+the creature is trained in tasks related to
+salvaging numenera. If the creature is
+already trained or specialized in salvaging
+numenera, this graft has no effect. Once
+the graft attaches, the effect is permanent,
+and this device no longer counts against
+the number of cyphers that a PC can bear,
+but the disc remains.
+SHAPEMETAL
+Level: 6
+Usable: Canister containing a silvery,
+shapeable clay
+Effect: This metallic clay can be shaped and
+greatly expanded to create individual tools
+or objects such as a hammer, a ladder, or
+a basic structure such as a wall, bench,
+floor, staircase, and so on, as long as the
+total volume created could fit in a 10-foot
+(3 m) cube. Once formed, the structure or
+objects are permanent.
+SLASH-RETARDANT SPRAY
+Level: 1d6 + 2
+Usable: Bulky handheld device attached to
+large tanks and a wide hose
+Effect: For the next 28 hours, walls and
+structures sprayed with these repairing
+nanites are treated as if 1 level higher. If
+an hour is spent spraying down the outer
+walls and defense structures of a ranked
+community, that community gains +1
+Armor during any conflict that happens
+over the next 28 hours.
+STEALTH THROWER
+Level: 1d6 + 2
+Usable: Bulky handheld device attached to
+large tanks and a wide hose
+Effect: When activated, creatures within
+short range are coated with a fine mist
+of dull nano particles that render them
+more difficult to pick out from their
+surroundings for about an hour, granting
+them an asset to stealth tasks. If the use is
+coordinated with attackers who make up a
+community’s or horde’s combat force, the
+force is treated as a stealthy horde during
+that community action.
+SUMMONING ALARM NODULE
+Level: 6
+Usable: Crystal nodule affixed to installation
+Effect: For the next 28 hours, each time the
+structure or installation to which the nodule
+is attached is struck hard enough to inflict
+damage (but not more than once per round),
+whoever attached the nodule is teleported
+from any location within very long range to a
+location standing next to the installation.
+SUSTENANCE IMPLANT
+Level: 1d6
+Internal: Pill, ingestible liquid
+Usable: Injector
+Effect: For the next number of days equal to
+the cypher level, the wearer feels no ill
+effects from not eating or from overeating.
+They also gain an asset to any defense
+tasks to withstand poison.
+TRAIL BLAZER
+Level: 1d6
+Wearable: Single boot with attached device
+Effect: For the next 28 hours, each time the boot
+touches down on solid ground, it deposits
+a patch of nanites that mark the area with
+a symbol. At any time before the duration
+expires, the wearer (and up to one other
+person that can be carried along) can use
+an action to instantly teleport back to any
+of these symbols. The teleportation effect
+brings the cypher’s duration to an end.
+TRANSDIMENSIONAL SENSE
+Level: 1d6
+Internal: Pill, ingestible liquid
+Usable: Injector
+Effect: The user can see out-of-phase, invisible,
+and transdimensional creatures, objects, and
+sources of energy within long range for 28
+hours. If ingested by a creature who attempts
+to salvage a particular kind of iotum during
+a salvage task, the effects of this cypher
+grant the user one free level of Effort if they
+first use a level of Effort on that task.
+TRAVEL BUBBLE
+Level: 1d6 + 4
+Useable: Handheld device
+Effect: The user and any additional targets that
+can fit into a space an immediate distance
+in diameter are encapsulated in a spherical
+force field for up to ten hours or until the
+user collapses it. The sphere hovers at all
+times and moves as the user wishes vertically
+or horizontally up to a short distance each
+round. If the sphere is destroyed or collapsed,
+whatever it contains falls to the ground.

@@ -7,7 +7,7 @@ var NumeneraCyphers []Cypher = []Cypher {
 		Name: "Adhesion Clamps",
 		Level: "1d6",
 		Type: []string{
-			"Type: Wearable - Gloves",
+			"Wearable: Gloves",
 			"Usable: Handles with powerful suction cups",
 		},
 		Effect: `Allows for automatic climbing of any
@@ -30,7 +30,7 @@ any, already in the user’s system.`,
 		Name: "Attractor",
 		Level: "1d6 + 4",
 		Type: []string{
-			"Type: Wearable - Glove of synth",
+			"Wearable: Glove of synth",
 			"Usable: Small handheld device",
 		},
 		Effect: `One unanchored item your size or smaller
@@ -167,7 +167,7 @@ level 6 or higher).`,
 		Level: "1d6",
 		Type: []string{
 			"Internal: Pill, ingestible liquid",
-			"Type: Wearable - Temporary tattoo, amulet,",
+			"Wearable: Temporary tattoo, amulet,",
 			"Usable: Small handheld device, crystal",
 		},
 		Effect: `Tapping into the datasphere’s
@@ -194,7 +194,7 @@ level 4 or higher).`,
 		Name: "Detonation",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device (thrown, short range)",
 		},
 		Effect: `Explodes in an immediate radius,
@@ -211,7 +211,7 @@ Roll for the type of damage:
 		Name: "Detonation (desiccating)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device or ceramic sphere",
 		},
 		Effect: `Bursts in an immediate radius, draining
@@ -223,7 +223,7 @@ level. Water in the area is vaporized.`,
 		Name: "Detonation (flash)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device or ceramic sphere",
 		},
 		Effect: `Bursts in an immediate radius, blinding
@@ -234,7 +234,7 @@ the cypher is level 4 or higher).`,
 		Name: "Detonation (gravity)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device or ceramic sphere",
 		},
 		Effect: `Bursts in an immediate radius, inflicting
@@ -248,7 +248,7 @@ physical actions.`,
 		Name: "Detonation (massive)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (very long range)",
+			"Wearable: Wristband projector (very long range)",
 			"Usable: Handheld projector (very long range)",
 		},
 		Effect: `Explodes in a short-range radius,
@@ -265,7 +265,7 @@ Roll for the type of damage:
 		Name: "Detonation (matter Disruption)",
 		Level: "1d6 + 4",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device or ceramic sphere",
 		},
 		Effect: `Explodes in an immediate radius,
@@ -277,7 +277,7 @@ cypher level.`,
 		Name: "Detonation (pressure)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device (thrown, short range)",
 		},
 		Effect: `Explodes in an immediate radius,
@@ -305,7 +305,7 @@ they fail a Might defense roll.`,
 		Name: "Detonation (sonic)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device or ceramic sphere",
 		},
 		Effect: `Explodes with terrifying sound,
@@ -316,7 +316,7 @@ ten minutes per cypher level.`,
 		Name: "Detonation (spawn)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device or ceramic sphere",
 		},
 		Effect: `Bursts in an immediate radius, blinding
@@ -339,7 +339,7 @@ all detonations:
 		Name: "Detonation (web)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device (thrown, short range)",
 		},
 		Effect: `Explodes in an immediate radius and
@@ -389,7 +389,7 @@ cypher’s level for 28 hours.`,
 		Name: "Flame-Retardant Wall",
 		Level: "1d6",
 		Type: []string{
-			"Type: Wearable - Belt, ring, bracelet",
+			"Wearable: Belt, ring, bracelet",
 			"Usable: Handheld device",
 		},
 		Effect: `Creates an immobile plane of permeable
@@ -402,7 +402,7 @@ passing through the plane are extinguished.`,
 		Name: "Force Cube Projector",
 		Level: "1d6 + 3",
 		Type: []string{
-			"Type: Wearable - Belt, ring, bracelet",
+			"Wearable: Belt, ring, bracelet",
 			"Usable: Handheld device",
 		},
 		Effect: `Creates an immobile cube composed of
@@ -425,7 +425,7 @@ field, adding 2 to the Armor it provides (adding
 		Name: "Force Screen Projector",
 		Level: "1d6 + 3",
 		Type: []string{
-			"Type: Wearable - Belt, ring, bracelet",
+			"Wearable: Belt, ring, bracelet",
 			"Usable: Handheld device",
 		},
 		Effect: `Creates an immobile plane of solid
@@ -438,7 +438,7 @@ conforms to the space available.`,
 		Level: "1d6 + 3",
 		Type: []string{
 			"Internal: Subdermal injection",
-			"Type: Wearable - Belt, ring, bracelet",
+			"Wearable: Belt, ring, bracelet",
 			"Usable: Handheld device",
 		},
 		Effect: `Creates a shimmering energy shield
@@ -475,7 +475,7 @@ available. It lasts for ten minutes.`,
 		Name: "Gas Bomb",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband projector (long range)",
+			"Wearable: Wristband projector (long range)",
 			"Usable: Explosive device or ceramic sphere",
 		},
 		Effect: `Bursts in a poisonous cloud within an
@@ -527,7 +527,7 @@ rounds equal to the cypher level.`,
 		Level: "1d6 + 3",
 		Type: []string{
 			"Internal: Subdermal injection",
-			"Type: Wearable - Belt, boots, ring, bracelet",
+			"Wearable: Belt, boots, ring, bracelet",
 			"Usable: Small platform on which the user",
 		},
 		Effect: `For one hour, the user can float into the
@@ -566,7 +566,7 @@ points if the cypher is level 6 or higher).`,
 		Name: "Hunter/seeker",
 		Level: "1d6",
 		Type: []string{
-			"Type: Wearable - Arm- or shoulder-mounted launcher",
+			"Wearable: Arm- or shoulder-mounted launcher",
 			"Usable: Complex device, handheld device",
 		},
 		Effect: `With long-range movement, this intelligent
@@ -595,7 +595,7 @@ cypher level + 2).`,
 		Name: "Image Projector",
 		Level: "1d6",
 		Type: []string{
-			"Type: Wearable - Headband with device on forehead",
+			"Wearable: Headband with device on forehead",
 			"Usable: Handheld device with glass panel",
 		},
 		Effect: `Projects one of the following immobile
@@ -638,7 +638,7 @@ available. It lasts for ten minutes.`,
 		Level: "1d6",
 		Type: []string{
 			"Internal: Phases into eye, phases out when",
-			"Type: Wearable - Adheres to temple and launches",
+			"Wearable: Adheres to temple and launches",
 			"Usable: Handheld device that launches",
 		},
 		Effect: `Tiny capsule launches and moves at
@@ -699,7 +699,7 @@ permanent and immobile once created.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill, ingestible liquid",
-			"Type: Wearable - Adhesive patch that activates when",
+			"Wearable: Adhesive patch that activates when",
 			"Usable: Injector",
 		},
 		Effect: `Substance adds 1 to Intellect Edge for
@@ -722,7 +722,7 @@ unarmored.`,
 		Level: "1d6",
 		Type: []string{
 			"Internal: Pill, ingestible liquid",
-			"Type: Wearable - Adhesive patch that activates when",
+			"Wearable: Adhesive patch that activates when",
 			"Usable: Injector",
 		},
 		Effect: `For the next 28 hours, the character has
@@ -776,7 +776,7 @@ the slime dies and becomes inert.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill",
-			"Type: Wearable - Disk that adheres to forehead,",
+			"Wearable: Disk that adheres to forehead,",
 			"Usable: Injector",
 		},
 		Effect: `When activated, the cypher splits into
@@ -808,7 +808,7 @@ armor), the attack is eased.`,
 		Name: "Magnetic Master",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Gloves with metal plates",
+			"Wearable: Gloves with metal plates",
 			"Usable: Small pyramid-shaped metallic device",
 		},
 		Effect: `Establishes a connection with one
@@ -827,7 +827,7 @@ level.`,
 		Name: "Magnetic Shield",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Gloves with metal plates",
+			"Wearable: Gloves with metal plates",
 			"Usable: Small pyramid-shaped metallic device",
 		},
 		Effect: `For ten minutes per cypher level, metal
@@ -840,7 +840,7 @@ activated are slowly pushed out.`,
 		Name: "Memory Lenses",
 		Level: "1d6",
 		Type: []string{
-			"Type: Wearable - Contact lenses, eyeglasses, or",
+			"Wearable: Contact lenses, eyeglasses, or",
 		},
 		Effect: `Allows the wearer to mentally record
 everything they see for thirty seconds
@@ -887,7 +887,7 @@ surprising actions.
 		Name: "Metal Death",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wrist-mounted sprayer",
+			"Wearable: Wrist-mounted sprayer",
 			"Usable: Canister with hose",
 		},
 		Effect: `Produces a stream of foam that covers
@@ -902,7 +902,7 @@ inches (15 cm).`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Injection into fingertip",
-			"Type: Wearable - Glove",
+			"Wearable: Glove",
 			"Usable: Device similar to hilt",
 		},
 		Effect: `Produces a 6-inch (15 cm) blade that’s
@@ -917,7 +917,7 @@ own. The blade lasts for ten minutes.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Injection into spine",
-			"Type: Wearable - Amulet",
+			"Wearable: Amulet",
 			"Usable: Disk that can be affixed to the floor or",
 		},
 		Effect: `Indicates when any movement occurs
@@ -933,7 +933,7 @@ cypher level.`,
 		Name: "Personal Environment Field",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Belt, medallion, ring",
+			"Wearable: Belt, medallion, ring",
 			"Usable: Handheld device",
 		},
 		Effect: `Creates an aura of temperature and
@@ -951,7 +951,7 @@ of a nonhuman, nonterrestrial creature.`,
 		Name: "Phase Changer",
 		Level: "1d6 + 1",
 		Type: []string{
-			"Type: Wearable - Belt, medallion, ring",
+			"Wearable: Belt, medallion, ring",
 			"Usable: Handheld device",
 		},
 		Effect: `Puts the user out of phase for one
@@ -981,7 +981,7 @@ one cannot see through it, and it blocks light.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill, ingestible or injectable liquid",
-			"Type: Wearable - Lipstick, false fingertip, ring with needle",
+			"Wearable: Lipstick, false fingertip, ring with needle",
 			"Usable: Injector",
 		},
 		Effect: `The victim feels a specific emotion for
@@ -1010,7 +1010,7 @@ attachment is likely.`,
 		Level: "1d6 + 1",
 		Type: []string{
 			"Internal: Pill, ingestible or injectable liquid",
-			"Type: Wearable - Lipstick, false fingertip, ring with",
+			"Wearable: Lipstick, false fingertip, ring with",
 			"Usable: Injector",
 		},
 		Effect: `Once this substance enters the
@@ -1037,7 +1037,7 @@ range of the detonator.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill, ingestible or injectable liquid",
-			"Type: Wearable - Lipstick, false fingertip, ring with",
+			"Wearable: Lipstick, false fingertip, ring with",
 			"Usable: Injector",
 		},
 		Effect: `The victim must carry out a specific
@@ -1064,7 +1064,7 @@ other actions, even ignoring selfpreservation.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill, ingestible or injectable liquid",
-			"Type: Wearable - Lipstick, false fingertip, ring with",
+			"Wearable: Lipstick, false fingertip, ring with",
 			"Usable: Injector",
 		},
 		Effect: `The victim suffers Intellect damage
@@ -1077,7 +1077,7 @@ the cypher’s level.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill",
-			"Type: Wearable - Device that adheres to temple",
+			"Wearable: Device that adheres to temple",
 			"Usable: Metallic disk",
 		},
 		Effect: `Allows the user to project a one-time,
@@ -1090,7 +1090,7 @@ range, to anyone they know.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Subdermal implant",
-			"Type: Wearable - Contact lens, glove, ring, wristband,",
+			"Wearable: Contact lens, glove, ring, wristband,",
 			"Usable: Handheld device",
 		},
 		Effect: `Allows the user to project a ray of
@@ -1109,7 +1109,7 @@ level.
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Subdermal implant",
-			"Type: Wearable - Contact lens, glove, ring, wristband,",
+			"Wearable: Contact lens, glove, ring, wristband,",
 			"Usable: Handheld device",
 		},
 		Effect: `Allows the user to project a ray of
@@ -1125,7 +1125,7 @@ one hour.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Subdermal implant",
-			"Type: Wearable - Contact lens, glove, ring,",
+			"Wearable: Contact lens, glove, ring,",
 			"Usable: Handheld device",
 		},
 		Effect: `Allows the user to project a ray of
@@ -1151,7 +1151,7 @@ then it is ruined.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill, ingestible liquid",
-			"Type: Wearable - Adhesive patch that activates when",
+			"Wearable: Adhesive patch that activates when",
 			"Usable: Injector",
 		},
 		Effect: `Substance restores a number of points
@@ -1176,7 +1176,7 @@ of the distance between the two parts.`,
 		Name: "Repair Unit",
 		Level: "1d10",
 		Type: []string{
-			"Type: Wearable - Shoulder- or arm-mounted launcher,",
+			"Wearable: Shoulder- or arm-mounted launcher,",
 			"Usable: Handheld device",
 		},
 		Effect: `Device becomes a multiarmed sphere that
@@ -1235,7 +1235,7 @@ the cypher is level 6 or higher).`,
 		Level: "1d6 + 4",
 		Type: []string{
 			"Internal: Subdermal implant",
-			"Type: Wearable - Ring, palm disk",
+			"Wearable: Ring, palm disk",
 			"Usable: Short rod",
 		},
 		Effect: `Delivers a powerful burst of electricity
@@ -1279,7 +1279,7 @@ action can be one of a number of possibilities:
 		Level: "1d6",
 		Type: []string{
 			"Internal: Pill, ingestible liquid",
-			"Type: Wearable - Fingertip cusp, ring, glove",
+			"Wearable: Fingertip cusp, ring, glove",
 			"Usable: Injector, gas sprayer",
 		},
 		Effect: `Touch or ingestion puts the victim to
@@ -1290,7 +1290,7 @@ violent action or an extremely loud noise.`,
 		Name: "Sonic Hole",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Wristband, ring, belt-mounted device",
+			"Wearable: Wristband, ring, belt-mounted device",
 			"Usable: Small handheld device",
 		},
 		Effect: `Draws all sound within long range into the
@@ -1302,7 +1302,7 @@ the affected area, no sound can be heard.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Implant",
-			"Type: Wearable - Wristband, ring, belt-mounted",
+			"Wearable: Wristband, ring, belt-mounted",
 			"Usable: Small handheld device",
 		},
 		Effect: `Dampens all sound within immediate
@@ -1331,7 +1331,7 @@ use of the device.`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill, ingestible liquid",
-			"Type: Wearable - Adhesive patch that activates when",
+			"Wearable: Adhesive patch that activates when",
 			"Usable: Injector",
 		},
 		Effect: `Substance adds 1 to Speed Edge for
@@ -1353,7 +1353,7 @@ one hour (or adds 2 if the cypher is level
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill, ingestible liquid",
-			"Type: Wearable - Adhesive patch that activates when",
+			"Wearable: Adhesive patch that activates when",
 			"Usable: Injector",
 		},
 		Effect: `Substance adds 1 to Might Edge for one
@@ -1384,7 +1384,7 @@ field and after leaving it).`,
 		Level: "1d6 + 2",
 		Type: []string{
 			"Internal: Pill",
-			"Type: Wearable - Disk that adheres to forehead,",
+			"Wearable: Disk that adheres to forehead,",
 			"Usable: Injector",
 		},
 		Effect: `The user activates the device and
@@ -1401,7 +1401,7 @@ communication between all of them.`,
 		Name: "Teleporter (bounder)",
 		Level: "1d6 + 2",
 		Type: []string{
-			"Type: Wearable - Belt, wristband, ring, full bodysuit",
+			"Wearable: Belt, wristband, ring, full bodysuit",
 			"Usable: Complex device, handheld device",
 		},
 		Effect: `User teleports up to 100 × the cypher
@@ -1414,7 +1414,7 @@ anything else with them.`,
 		Name: "Teleporter (traveler)",
 		Level: "1d6 + 4",
 		Type: []string{
-			"Type: Wearable - Belt, wristband, ring, full bodysuit",
+			"Wearable: Belt, wristband, ring, full bodysuit",
 			"Usable: Complex device, handheld device",
 		},
 		Effect: `User teleports up to 100 × the cypher
@@ -1427,7 +1427,7 @@ but cannot take anything else with them.`,
 		Name: "Temporal Viewer",
 		Level: "1d6 + 4",
 		Type: []string{
-			"Type: Wearable - Wristband",
+			"Wearable: Wristband",
 			"Usable: Complex device, handheld device",
 		},
 		Effect: `Displays moving images and sound, up
@@ -1466,7 +1466,7 @@ cypher is level 6 or higher).`,
 		Name: "Tracer",
 		Level: "1d6",
 		Type: []string{
-			"Type: Wearable - Wristband",
+			"Wearable: Wristband",
 			"Usable: Handheld device",
 		},
 		Effect: `Fires a microscopic tracer that clings to
@@ -1494,7 +1494,7 @@ minutes to apply and lasts for 28 hours.`,
 		Name: "Visual Displacement Device",
 		Level: "1d6",
 		Type: []string{
-			"Type: Wearable - Belt or bracelet",
+			"Wearable: Belt or bracelet",
 			"Usable: Handheld device",
 		},
 		Effect: `Projects holographic images of the
@@ -1508,7 +1508,7 @@ for ten minutes per cypher level.`,
 		Level: "1d6",
 		Type: []string{
 			"Internal: Pill, ingestible liquid",
-			"Type: Wearable - Headband",
+			"Wearable: Headband",
 			"Usable: Disk that must be held to forehead",
 		},
 		Effect: `Translates everything said by the
@@ -1520,7 +1520,7 @@ understand for 28 hours per cypher level.`,
 		Level: "1d6",
 		Type: []string{
 			"Internal: Subdermal implant",
-			"Type: Wearable - Bodysuit, belt",
+			"Wearable: Bodysuit, belt",
 			"Usable: Injector",
 		},
 		Effect: `Keeps the user warm and comfortable
@@ -1639,26 +1639,7 @@ structure, the tool provides the user an
 additional asset to the task.`,
 	},
 	Cypher{ 
-		Name: "Ablative Thrower",
-		Level: "1d6 + 3",
-		Type: []string{
-			"Usable: Bulky handheld device attached to",
-		},
-		Effect: `When activated, creatures within short
-range are coated with a fine mist of metallic
-nano particles that coats their clothing (but
-not flesh), hardening non-flexing portions
-for about an hour and granting +1 Armor. If
-the use is coordinated with attackers who
-make up a community’s or horde’s combat
-force, the force is treated as a defensive
-horde during that community action.`,
-	},
-	Cypher{ 
-		Name: "Detonation",
-	},
-	Cypher{ 
-		Name: "(horde Suppressor)",
+		Name: "Detonation (horde Suppressor)",
 		Level: "1d6 + 1",
 		Type: []string{
 			"Wearable: Wristband projector (long range)",

@@ -1,6 +1,6 @@
 ADHESION CLAMPS
 Level: 1d6
-Type: Wearable - Gloves
+Wearable: Gloves
 Usable: Handles with powerful suction cups
 Effect: Allows for automatic climbing of any
 surface, even horizontal ones. Lasts for ten
@@ -15,7 +15,7 @@ level and ends any such ongoing effects, if
 any, already in the user’s system.
 ATTRACTOR
 Level: 1d6 + 4
-Type: Wearable - Glove of synth
+Wearable: Glove of synth
 Usable: Small handheld device
 Effect: One unanchored item your size or smaller
 within long range (very long range if the cypher
@@ -121,7 +121,7 @@ level 6 or higher).
 DATASPHERE SIPHON
 Level: 1d6
 Internal: Pill, ingestible liquid
-Type: Wearable - Temporary tattoo, amulet,
+Wearable: Temporary tattoo, amulet,
 headband, crystal worn on temple
 Usable: Small handheld device, crystal
 Effect: Tapping into the datasphere’s
@@ -142,7 +142,7 @@ points of damage (3 points if the cypher is
 level 4 or higher).
 DETONATION
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device (thrown, short range)
 or handheld projector (long range)
 Effect: Explodes in an immediate radius,
@@ -156,7 +156,7 @@ Roll for the type of damage:
 76–00 Shrapnel
 DETONATION (DESICCATING)
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device or ceramic sphere
 (thrown, short range) or handheld
 projector (long range)
@@ -166,7 +166,7 @@ creatures take damage equal to the cypher
 level. Water in the area is vaporized.
 DETONATION (FLASH)
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device or ceramic sphere
 (thrown, short range) or handheld
 projector (long range)
@@ -175,7 +175,7 @@ all within it for one minute (ten minutes if
 the cypher is level 4 or higher).
 DETONATION (GRAVITY)
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device or ceramic sphere
 (thrown, short range) or handheld
 projector (long range)
@@ -187,7 +187,7 @@ ground for one round and cannot take
 physical actions.
 DETONATION (MASSIVE)
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (very long range)
+Wearable: Wristband projector (very long range)
 Usable: Handheld projector (very long range)
 Effect: Explodes in a short-range radius,
 inflicting damage equal to the cypher level.
@@ -200,7 +200,7 @@ Roll for the type of damage:
 76–00 Shrapnel
 DETONATION (MATTER DISRUPTION)
 Level: 1d6 + 4
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device or ceramic sphere
 (thrown, short range) or handheld
 projector (long range)
@@ -210,7 +210,7 @@ random ways. Inflicts damage equal to the
 cypher level.
 DETONATION (PRESSURE)
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device (thrown, short range)
 or handheld projector (long range)
 Effect: Explodes in an immediate radius,
@@ -233,7 +233,7 @@ move one step down the damage track if
 they fail a Might defense roll.
 DETONATION (SONIC)
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device or ceramic sphere
 (thrown, short range) or handheld
 projector (long range)
@@ -242,7 +242,7 @@ deafening all in an immediate radius for
 ten minutes per cypher level.
 DETONATION (SPAWN)
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device or ceramic sphere
 (thrown, short range) or handheld
 projector (long range)
@@ -263,7 +263,7 @@ all detonations:
 76–00 Shrapnel
 DETONATION (WEB)
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device (thrown, short range)
 or handheld projector (long range)
 Effect: Explodes in an immediate radius and
@@ -299,7 +299,7 @@ Armor against fire damage equal to the
 cypher’s level for 28 hours.
 FLAME-RETARDANT WALL
 Level: 1d6
-Type: Wearable - Belt, ring, bracelet
+Wearable: Belt, ring, bracelet
 Usable: Handheld device
 Effect: Creates an immobile plane of permeable
 energy up to 20 feet by 20 feet (6 m by 6 m)
@@ -308,7 +308,7 @@ conforms to the space available. Flames
 passing through the plane are extinguished.
 FORCE CUBE PROJECTOR
 Level: 1d6 + 3
-Type: Wearable - Belt, ring, bracelet
+Wearable: Belt, ring, bracelet
 Usable: Handheld device
 Effect: Creates an immobile cube composed of
 six planes of solid force, each 30 feet (9 m)
@@ -323,7 +323,7 @@ field, adding 2 to the Armor it provides (adding
 3 to the Armor if the cypher is level 5 or higher).
 FORCE SCREEN PROJECTOR
 Level: 1d6 + 3
-Type: Wearable - Belt, ring, bracelet
+Wearable: Belt, ring, bracelet
 Usable: Handheld device
 Effect: Creates an immobile plane of solid
 force up to 20 feet by 20 feet (6 m by 6 m)
@@ -332,7 +332,7 @@ conforms to the space available.
 FORCE SHIELD PROJECTOR
 Level: 1d6 + 3
 Internal: Subdermal injection
-Type: Wearable - Belt, ring, bracelet
+Wearable: Belt, ring, bracelet
 Usable: Handheld device
 Effect: Creates a shimmering energy shield
 around the user for one hour, during which
@@ -357,7 +357,7 @@ through it. The wall conforms to the space
 available. It lasts for ten minutes.
 GAS BOMB
 Level: 1d6 + 2
-Type: Wearable - Wristband projector (long range)
+Wearable: Wristband projector (long range)
 Usable: Explosive device or ceramic sphere
 (thrown, short range) or handheld
 projector (long range)
@@ -407,7 +407,7 @@ rounds equal to the cypher level.
 GRAVITY NULLIFIER
 Level: 1d6 + 3
 Internal: Subdermal injection
-Type: Wearable - Belt, boots, ring, bracelet
+Wearable: Belt, boots, ring, bracelet
 Usable: Small platform on which the user
 must stand
 Effect: For one hour, the user can float into the
@@ -435,7 +435,7 @@ inflicting an additional 2 points of damage
 points if the cypher is level 6 or higher).
 HUNTER/SEEKER
 Level: 1d6
-Type: Wearable - Arm- or shoulder-mounted launcher
+Wearable: Arm- or shoulder-mounted launcher
 Usable: Complex device, handheld device
 Effect: With long-range movement, this intelligent
 missile tracks and attacks a specified target
@@ -460,7 +460,7 @@ Might action (difficulty equal to the
 cypher level + 2).
 IMAGE PROJECTOR
 Level: 1d6
-Type: Wearable - Headband with device on forehead
+Wearable: Headband with device on forehead
 Usable: Handheld device with glass panel
 Effect: Projects one of the following immobile
 images in the area described for one hour.
@@ -496,7 +496,7 @@ INFILTRATOR
 Level: 1d6
 Internal: Phases into eye, phases out when
 used
-Type: Wearable - Adheres to temple and launches
+Wearable: Adheres to temple and launches
 projectile
 Usable: Handheld device that launches
 projectile
@@ -547,7 +547,7 @@ permanent and immobile once created.
 INTELLECT ENHANCEMENT
 Level: 1d6 + 2
 Internal: Pill, ingestible liquid
-Type: Wearable - Adhesive patch that activates when
+Wearable: Adhesive patch that activates when
 slapped
 Usable: Injector
 Effect: Substance adds 1 to Intellect Edge for
@@ -563,7 +563,7 @@ unarmored.
 KNOWLEDGE ENHANCEMENT
 Level: 1d6
 Internal: Pill, ingestible liquid
-Type: Wearable - Adhesive patch that activates when
+Wearable: Adhesive patch that activates when
 slapped
 Usable: Injector
 Effect: For the next 28 hours, the character has
@@ -606,7 +606,7 @@ the slime dies and becomes inert.
 MACHINE CONTROL IMPLANT
 Level: 1d6 + 2
 Internal: Pill
-Type: Wearable - Disk that adheres to forehead,
+Wearable: Disk that adheres to forehead,
 temporary tattoo
 Usable: Injector
 Effect: When activated, the cypher splits into
@@ -632,7 +632,7 @@ made of metal or wearing metal (such as
 armor), the attack is eased.
 MAGNETIC MASTER
 Level: 1d6 + 2
-Type: Wearable - Gloves with metal plates
+Wearable: Gloves with metal plates
 Usable: Small pyramid-shaped metallic device
 Effect: Establishes a connection with one
 metal object within short range that a
@@ -647,7 +647,7 @@ connection lasts for ten rounds per cypher
 level.
 MAGNETIC SHIELD
 Level: 1d6 + 2
-Type: Wearable - Gloves with metal plates
+Wearable: Gloves with metal plates
 Usable: Small pyramid-shaped metallic device
 Effect: For ten minutes per cypher level, metal
 objects cannot come within immediate
@@ -656,7 +656,7 @@ already in the area when the device is
 activated are slowly pushed out.
 MEMORY LENSES
 Level: 1d6
-Type: Wearable - Contact lenses, eyeglasses, or
+Wearable: Contact lenses, eyeglasses, or
 goggles
 Effect: Allows the wearer to mentally record
 everything they see for thirty seconds
@@ -696,7 +696,7 @@ surprising actions.
 99–00 Victims’ ethics are inverted.
 METAL DEATH
 Level: 1d6 + 2
-Type: Wearable - Wrist-mounted sprayer
+Wearable: Wrist-mounted sprayer
 Usable: Canister with hose
 Effect: Produces a stream of foam that covers
 an area about 3 feet by 3 feet (1 m by 1 m),
@@ -707,7 +707,7 @@ inches (15 cm).
 MONOBLADE
 Level: 1d6 + 2
 Internal: Injection into fingertip
-Type: Wearable - Glove
+Wearable: Glove
 Usable: Device similar to hilt
 Effect: Produces a 6-inch (15 cm) blade that’s
 the same level as the cypher. The blade cuts
@@ -718,7 +718,7 @@ own. The blade lasts for ten minutes.
 MOTION SENSOR
 Level: 1d6 + 2
 Internal: Injection into spine
-Type: Wearable - Amulet
+Wearable: Amulet
 Usable: Disk that can be affixed to the floor or
 another surface
 Effect: Indicates when any movement occurs
@@ -731,7 +731,7 @@ activated, it operates for one hour per
 cypher level.
 PERSONAL ENVIRONMENT FIELD
 Level: 1d6 + 2
-Type: Wearable - Belt, medallion, ring
+Wearable: Belt, medallion, ring
 Usable: Handheld device
 Effect: Creates an aura of temperature and
 atmosphere that will sustain a human
@@ -745,7 +745,7 @@ accommodate the preferred environment
 of a nonhuman, nonterrestrial creature.
 PHASE CHANGER
 Level: 1d6 + 1
-Type: Wearable - Belt, medallion, ring
+Wearable: Belt, medallion, ring
 Usable: Handheld device
 Effect: Puts the user out of phase for one
 minute (two minutes if the cypher is level
@@ -768,7 +768,7 @@ one cannot see through it, and it blocks light.
 POISON (EMOTION)
 Level: 1d6 + 2
 Internal: Pill, ingestible or injectable liquid
-Type: Wearable - Lipstick, false fingertip, ring with needle
+Wearable: Lipstick, false fingertip, ring with needle
 Usable: Injector
 Effect: The victim feels a specific emotion for
 one hour.
@@ -793,7 +793,7 @@ attachment is likely.
 POISON (EXPLOSIVE)
 Level: 1d6 + 1
 Internal: Pill, ingestible or injectable liquid
-Type: Wearable - Lipstick, false fingertip, ring with
+Wearable: Lipstick, false fingertip, ring with
 needle
 Usable: Injector
 Effect: Once this substance enters the
@@ -817,7 +817,7 @@ range of the detonator.
 POISON (MIND-CONTROLLING)
 Level: 1d6 + 2
 Internal: Pill, ingestible or injectable liquid
-Type: Wearable - Lipstick, false fingertip, ring with
+Wearable: Lipstick, false fingertip, ring with
 needle
 Usable: Injector
 Effect: The victim must carry out a specific
@@ -841,7 +841,7 @@ other actions, even ignoring selfpreservation.
 POISON (MIND-DISRUPTING)
 Level: 1d6 + 2
 Internal: Pill, ingestible or injectable liquid
-Type: Wearable - Lipstick, false fingertip, ring with
+Wearable: Lipstick, false fingertip, ring with
 needle
 Usable: Injector
 Effect: The victim suffers Intellect damage
@@ -851,7 +851,7 @@ the cypher’s level.
 PSYCHIC COMMUNIQUE
 Level: 1d6 + 2
 Internal: Pill
-Type: Wearable - Device that adheres to temple
+Wearable: Device that adheres to temple
 Usable: Metallic disk
 Effect: Allows the user to project a one-time,
 one-way telepathic message of up to ten
@@ -860,7 +860,7 @@ range, to anyone they know.
 RAY EMITTER
 Level: 1d6 + 2
 Internal: Subdermal implant
-Type: Wearable - Contact lens, glove, ring, wristband,
+Wearable: Contact lens, glove, ring, wristband,
 headband, belt buckle, shoulder-mounted
 device
 Usable: Handheld device
@@ -877,7 +877,7 @@ level.
 RAY EMITTER (NUMBING)
 Level: 1d6 + 2
 Internal: Subdermal implant
-Type: Wearable - Contact lens, glove, ring, wristband,
+Wearable: Contact lens, glove, ring, wristband,
 headband, belt buckle, shoulder-mounted
 device
 Usable: Handheld device
@@ -891,7 +891,7 @@ one hour.
 RAY EMITTER (PARALYSIS)
 Level: 1d6 + 2
 Internal: Subdermal implant
-Type: Wearable - Contact lens, glove, ring,
+Wearable: Contact lens, glove, ring,
 wristband, headband, belt buckle,
 shoulder-mounted device
 Usable: Handheld device
@@ -911,7 +911,7 @@ REJUVENATOR
 Selection weighting: 2
 Level: 1d6 + 2
 Internal: Pill, ingestible liquid
-Type: Wearable - Adhesive patch that activates when
+Wearable: Adhesive patch that activates when
 slapped
 Usable: Injector
 Effect: Substance restores a number of points
@@ -930,7 +930,7 @@ on in the vicinity of the other part, regardless
 of the distance between the two parts.
 REPAIR UNIT
 Level: 1d10
-Type: Wearable - Shoulder- or arm-mounted launcher,
+Wearable: Shoulder- or arm-mounted launcher,
 belt-mounted device
 Usable: Handheld device
 Effect: Device becomes a multiarmed sphere that
@@ -974,7 +974,7 @@ the cypher is level 6 or higher).
 SHOCKER
 Level: 1d6 + 4
 Internal: Subdermal implant
-Type: Wearable - Ring, palm disk
+Wearable: Ring, palm disk
 Usable: Short rod
 Effect: Delivers a powerful burst of electricity
 that shocks any creature touched, inflicting
@@ -1010,14 +1010,14 @@ action can be one of a number of possibilities:
 SLEEP INDUCER
 Level: 1d6
 Internal: Pill, ingestible liquid
-Type: Wearable - Fingertip cusp, ring, glove
+Wearable: Fingertip cusp, ring, glove
 Usable: Injector, gas sprayer
 Effect: Touch or ingestion puts the victim to
 sleep for ten minutes or until awoken by a
 violent action or an extremely loud noise.
 SONIC HOLE
 Level: 1d6 + 2
-Type: Wearable - Wristband, ring, belt-mounted device
+Wearable: Wristband, ring, belt-mounted device
 Usable: Small handheld device
 Effect: Draws all sound within long range into the
 device for one round per cypher level. Within
@@ -1025,7 +1025,7 @@ the affected area, no sound can be heard.
 SOUND DAMPENER
 Level: 1d6 + 2
 Internal: Implant
-Type: Wearable - Wristband, ring, belt-mounted
+Wearable: Wristband, ring, belt-mounted
 device, boots
 Usable: Small handheld device
 Effect: Dampens all sound within immediate
@@ -1047,7 +1047,7 @@ use of the device.
 SPEED BOOST
 Level: 1d6 + 2
 Internal: Pill, ingestible liquid
-Type: Wearable - Adhesive patch that activates when
+Wearable: Adhesive patch that activates when
 slapped
 Usable: Injector
 Effect: Substance adds 1 to Speed Edge for
@@ -1062,7 +1062,7 @@ Effect: Eases the next action taken by three steps.
 STRENGTH BOOST
 Level: 1d6 + 2
 Internal: Pill, ingestible liquid
-Type: Wearable - Adhesive patch that activates when
+Wearable: Adhesive patch that activates when
 slapped
 Usable: Injector
 Effect: Substance adds 1 to Might Edge for one
@@ -1086,7 +1086,7 @@ field and after leaving it).
 TELEPATHY IMPLANT
 Level: 1d6 + 2
 Internal: Pill
-Type: Wearable - Disk that adheres to forehead,
+Wearable: Disk that adheres to forehead,
 temporary tattoo
 Usable: Injector
 Effect: The user activates the device and
@@ -1100,7 +1100,7 @@ of this type are found together and allow
 communication between all of them.
 TELEPORTER (BOUNDER)
 Level: 1d6 + 2
-Type: Wearable - Belt, wristband, ring, full bodysuit
+Wearable: Belt, wristband, ring, full bodysuit
 Usable: Complex device, handheld device
 Effect: User teleports up to 100 × the cypher
 level in feet (30 × cypher level in m) to a
@@ -1109,7 +1109,7 @@ with their possessions but cannot take
 anything else with them.
 TELEPORTER (TRAVELER)
 Level: 1d6 + 4
-Type: Wearable - Belt, wristband, ring, full bodysuit
+Wearable: Belt, wristband, ring, full bodysuit
 Usable: Complex device, handheld device
 Effect: User teleports up to 100 × the cypher
 level in miles (160 x the cypher level in km)
@@ -1118,7 +1118,7 @@ They arrive safely with their possessions
 but cannot take anything else with them.
 TEMPORAL VIEWER
 Level: 1d6 + 4
-Type: Wearable - Wristband
+Wearable: Wristband
 Usable: Complex device, handheld device
 Effect: Displays moving images and sound, up
 to ten minutes per cypher level in length,
@@ -1146,7 +1146,7 @@ attacks by two steps (three steps if the
 cypher is level 6 or higher).
 TRACER
 Level: 1d6
-Type: Wearable - Wristband
+Wearable: Wristband
 Usable: Handheld device
 Effect: Fires a microscopic tracer that clings to
 any surface within short range (long range
@@ -1167,7 +1167,7 @@ is level 5 or higher). The change takes ten
 minutes to apply and lasts for 28 hours.
 VISUAL DISPLACEMENT DEVICE
 Level: 1d6
-Type: Wearable - Belt or bracelet
+Wearable: Belt or bracelet
 Usable: Handheld device
 Effect: Projects holographic images of the
 wearer to confuse attackers. The images
@@ -1177,7 +1177,7 @@ for ten minutes per cypher level.
 VOCAL TRANSLATOR
 Level: 1d6
 Internal: Pill, ingestible liquid
-Type: Wearable - Headband
+Wearable: Headband
 Usable: Disk that must be held to forehead
 Effect: Translates everything said by the
 user into a language that anyone can
@@ -1185,7 +1185,7 @@ understand for 28 hours per cypher level.
 WARMTH PROJECTOR
 Level: 1d6
 Internal: Subdermal implant
-Type: Wearable - Bodysuit, belt
+Wearable: Bodysuit, belt
 Usable: Injector
 Effect: Keeps the user warm and comfortable
 in the harshest cold temperatures for
@@ -1271,21 +1271,7 @@ tool the nodule is attached to is used
 to repair, craft, or modify an object or
 structure, the tool provides the user an
 additional asset to the task.
-ABLATIVE THROWER
-Level: 1d6 + 3
-Usable: Bulky handheld device attached to
-large tanks and a wide hose
-Effect: When activated, creatures within short
-range are coated with a fine mist of metallic
-nano particles that coats their clothing (but
-not flesh), hardening non-flexing portions
-for about an hour and granting +1 Armor. If
-the use is coordinated with attackers who
-make up a community’s or horde’s combat
-force, the force is treated as a defensive
-horde during that community action.
-DETONATION
-(HORDE SUPPRESSOR)
+DETONATION (HORDE SUPPRESSOR)
 Level: 1d6 + 1
 Wearable: Wristband projector (long range)
 Usable: Handheld projector (long range)

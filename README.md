@@ -7,8 +7,9 @@ This project embeds the Cypher data into the executable.  It does this by conver
 
 # Building
 In addition to the normal `go build/install` commands, this project will require two additional steps to build from scratch.
-1. To update the list of cyphers, use `go generate` to convert from the text data to the Go files (only needed for Numenera cyphers at this point)
-2. When including binary resources (e.g., clip.png), use `fyne bundle <resource> > bundle.go`, then copy the resultant static resource into another file (e.g., main.go)
+1. When doing the final build, i.e., `build install`, add `-ldflags -H=windowsgui` go make it a Windows executable: `go install -ldflags -H=windowsgui`
+2. To update the list of cyphers, use `go generate` to convert from the text data to the Go files (only needed for Numenera cyphers at this point)
+3. When including binary resources (e.g., clip.png), use `fyne bundle <resource> > bundle.go`, then copy the resultant static resource into another file (e.g., main.go)
 
 #TODO:
   * Convert subtle cyphers from Go source into a text file (which would then generate a Go file), hopefully making this easier to add to

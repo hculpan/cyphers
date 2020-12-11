@@ -11,6 +11,11 @@ In addition to the normal `go build/install` commands, this project will require
 2. To update the list of cyphers, use `go generate` to convert from the text data to the Go files (only needed for Numenera cyphers at this point)
 3. When including binary resources (e.g., clip.png), use `fyne bundle <resource> > bundle.go`, then copy the resultant static resource into another file (e.g., main.go)
 
+## Building on Linux
+Linux does not by default come with the C header and library files that
+fyne requires.  To resolve this you must do the following:
+  `sudo apt install xorg-dev`
+
 #TODO:
   * Convert subtle cyphers from Go source into a text file (which would then generate a Go file), hopefully making this easier to add to
   * The unique functionality does not actually work
